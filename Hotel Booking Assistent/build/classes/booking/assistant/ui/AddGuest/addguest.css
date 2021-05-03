@@ -1,0 +1,22 @@
+/*
+ * Empty Stylesheet file.
+ */
+/* 
+    Created on : Jan 25, 2021, 2:57:02 PM
+    Author     : Nelly
+*/
+
+
+.jfx-button,  .button{
+    -fx-background-color: yellowgreen;
+    -fx-text-fill: white;
+     background-color: #197602;
+    
+}
+ .jfx-button,  .button :hover{
+     -fx-background-color: firebrick;
+      background-color: Amber;
+}
+.mainFxmlClass {
+
+}
