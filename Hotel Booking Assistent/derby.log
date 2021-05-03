@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Apr 02 11:00:45 EAT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0178-9199-2b89-000005bc2bc8 
+on database directory C:\Users\User\Documents\NetBeansProjects\Hotel Booking Assistent\database with class loader sun.misc.Launcher$AppClassLoader@55f96302 
+Loaded from file:/C:/Users/User/Documents/NetBeansProjects/Hotel%20Booking%20Assistent/dist/run800583331/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0-b132
+user.dir=C:\Users\User\Documents\NetBeansProjects\Hotel Booking Assistent
+os.name=Windows 8.1
+os.arch=amd64
+os.version=6.3
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
